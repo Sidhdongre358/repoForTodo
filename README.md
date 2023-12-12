@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This Todo-list mini project is built by using React.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
