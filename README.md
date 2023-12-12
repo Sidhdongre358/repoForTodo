@@ -14,15 +14,36 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## Concepts Covered
+## Concepts Covered front-end
+
+
+naming conventions
 Arrays
 userInput 
+props
 events
+
+Hooks-usestate 
+SpreadOperators 
+ternary operator 
 functional components
-Hooks-usestate
-SpreadOperators
-controlled components
+controlled components  
+
+conditional rendering
+component tree structure
 HTML and CSS
+
+#Git concepts covered
+
+repository creation
+staging 
+branching 
+push pull 
+clone
+version controls
+
+
+
 
 
 
